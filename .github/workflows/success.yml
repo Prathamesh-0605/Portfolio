@@ -1,0 +1,13 @@
+name: Success Check
+
+on: [push]
+
+jobs:
+  run-success:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Echo success message
+        run: echo "✅ Push successful! Everything is working."
