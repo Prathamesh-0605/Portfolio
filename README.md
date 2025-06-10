@@ -13,7 +13,8 @@ Hi, I'm **Prathamesh**, a passionate web developer and tech enthusiast.
 - LinkedIn: [Prathamesh Bordavekar](https://www.linkedin.com/in/prathamesh-bordavekar-6b24762b7/)
 
 ##  Pages
-- `index.html`: Homepage
-- `contact.html`: Contact form (in progress)
+- [`index.html`](https://prathamesh-0605.github.io/Portfolio/): Homepage
+- [`contact.html`](https://prathamesh-0605.github.io/Portfolio/contact.html): Contact form (in progress)
+
 
 ---
